@@ -2,4 +2,4 @@
 
 HTML、CSS、JavaScriptを使ってください。
 
-作成したファイルは bad_prompt フォルダ配下に配置してください。
+作成したファイルは exercise01/bad_prompt フォルダ配下に配置してください。
